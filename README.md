@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kraxy991
-- 👀 I’m interested in machine learning/data analysis
-- 🌱 I’m currently learning business analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me kyd0919@163.com
+- 👀 I’m interested in machine learning/data analysis/product design
+- 🌱 BEng in Telecommunication, MSc in Business analysis
+- 💞️ Currently working as product manager
+- 📫 How to reach me alorssur09@gmail.com
 
 <!---
 kraxy991/kraxy991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
